@@ -47,7 +47,7 @@ features[taxonomy][] = "reservations_group"
 features[taxonomy][] = "reservations_inventory"
 
 package = "MNN Community Media Advanced"
-version = "7.x-1.2"
+version = "7.x-1.3"
 core = "7.x"
 project = "mnn_reservable_type_templates"
 project_status_url = https://github.com/cm-advanced/mnn_reservable_type_templates
